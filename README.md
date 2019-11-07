@@ -1,16 +1,24 @@
+Accessibility Fixes Report
+
 In HTML
-13--- Logo should have alt text
 
-25--- Images should include equivalent alternative text (alt text) in the markup/code. And title.
+13--- Logo should have alt text details
 
-29--- Create a Button is better to show and clik
+25--- Images should include equivalent alternative text (alt text) in the markup/code. And title details.
+
+29--- Change <a> to <button> is better to show and clik
 
 55--- Behind the input Email address, Add one submit button.
 
 In CSS
 
-masthead add display:flex;
+In Masthead class, add display:flex; background-color
 
-In nav add float 
+In .logo img Define logo size
+
+In nav class, add float 
 
 Change details font Size bigger and Color clear
+
+Parallel Age, weight and Lenght 
+
