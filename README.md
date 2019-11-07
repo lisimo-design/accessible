@@ -9,4 +9,7 @@ In HTML
 In CSS
 
 masthead add display:flex;
+
 In nav add float 
+
+Change details font Size and Color
