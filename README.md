@@ -12,4 +12,4 @@ masthead add display:flex;
 
 In nav add float 
 
-Change details font Size and Color
+Change details font Size bigger and Color clear
